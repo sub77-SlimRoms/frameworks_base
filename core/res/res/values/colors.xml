@@ -88,7 +88,7 @@
     <color name="perms_dangerous_perm_color">#33b5e5</color>
     <color name="shadow">#cc222222</color>
     <color name="perms_costs_money">#fff4511e</color>
-    
+
     <!-- For search-related UIs -->
     <color name="search_url_text_normal">#7fa87f</color>
     <color name="search_url_text_selected">@android:color/black</color>
@@ -186,4 +186,12 @@
 
     <color name="resize_shadow_start_color">#2a000000</color>
     <color name="resize_shadow_end_color">#00000000</color>
+
+    <color name="resolver_list_bg">@color/white</color>
+    <color name="immersive_cling_bg_color">@color/accent_device_default_light</color>
+    <color name="immersive_cling_text_color">@color/primary_text_default_material_light</color>
+    <color name="immersive_cling_button_text_color">@android:color/white</color>
+    <color name="app_permission_icon_tint">@android:color/black</color>
+    <color name="notification_text_default_color">@android:color/notification_default_color</color>
+    <color name="sender_text_color">@android:color/black</color>
 </resources>
