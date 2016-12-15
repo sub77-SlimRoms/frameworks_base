@@ -81,11 +81,8 @@ import com.android.server.media.projection.MediaProjectionManagerService;
 import com.android.server.net.NetworkPolicyManagerService;
 import com.android.server.net.NetworkStatsService;
 import com.android.server.notification.NotificationManagerService;
-<<<<<<< HEAD
 import com.android.server.os.RegionalizationService;
-=======
 import com.android.server.om.OverlayManagerService;
->>>>>>> Integrate OverlayManagerService into framework [3/11]
 import com.android.server.os.SchedulingPolicyService;
 import com.android.server.pm.BackgroundDexOptService;
 import com.android.server.pm.Installer;
